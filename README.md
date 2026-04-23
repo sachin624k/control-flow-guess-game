@@ -65,12 +65,8 @@ Meaning:
 
 ---
 
-```md
 ![Wrong Guess](images/img1.png)
-```
 
 ---
 
-```md
 ![Right Guess](images/img2.png)
-```
