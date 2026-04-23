@@ -1,5 +1,12 @@
 # 🎮 Guess My Favorite Series Game
 
+<p align="center">
+  <img src="images/img1.png" width= 450px" height="550px" />
+  <img src="images/img2.png" width="450px" height="538px" />
+</p>
+
+---
+
 A simple interactive browser game where the user tries to guess my favorite series — **Money Heist**.
 
 Built using:
@@ -62,11 +69,3 @@ Meaning:
 
   * user guesses correct
   * OR types `"quit"`
-
----
-
-![Wrong Guess](images/img1.png)
-
----
-
-![Right Guess](images/img2.png)
