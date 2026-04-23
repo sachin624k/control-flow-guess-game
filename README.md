@@ -66,11 +66,11 @@ Meaning:
 ---
 
 ```md
-![Wrong Guess](img1.png)
+![Wrong Guess](images/img1.png)
 ```
 
 ---
 
 ```md
-![Right Guess](img2.png)
+![Right Guess](images/img2.png)
 ```
